@@ -1,0 +1,28 @@
+name: Foresight Multimedia
+favicon: null
+layout_spectrum: 0.5669362738262862
+typography_spectrum: 0.4444433709140867
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4604207135271281
+  lightness: 0.3548516551963985
+  saturation: 0.17707133875228465
+  rhythmicContrast: 0.570935657247901
+purpose: []
